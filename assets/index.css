@@ -20,7 +20,7 @@ body {
 
 
 h1 {
-    color: blueviolet;
+    color: blue;
     margin-bottom: 20px;
 }
 
@@ -39,7 +39,7 @@ h1 {
 
 #btn {
     padding: 10px 20px;
-    background-color: red;
+    background-color: goldenrod;
     color: white;
     border: none;
     border-radius: 5px;
